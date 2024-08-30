@@ -73,4 +73,4 @@ function reiniciarJuego() {
     
 }
 
-condicionesIniciales();
+condicionesIniciales(); // gracias alura
