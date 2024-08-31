@@ -144,7 +144,11 @@ button {
     
 }
 
+<<<<<<< HEAD
 @media (max-width: 1200px){
+=======
+@media (max-width: 720px){
+>>>>>>> 2881cfc7ea7d21b388698d70fbb0fe85e365fe0a
     .header{
         padding: 10%;
     }
